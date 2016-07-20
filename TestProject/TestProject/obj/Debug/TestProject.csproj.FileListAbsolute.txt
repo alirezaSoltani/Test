@@ -8,3 +8,4 @@ C:\Users\SE7EN\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.P
 C:\Users\SE7EN\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
 C:\Users\SE7EN\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.exe
 C:\Users\SE7EN\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\ASUS\Source\Repos\Test3\TestProject\TestProject\bin\Debug\TestProject.exe.config
